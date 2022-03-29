@@ -1,5 +1,6 @@
 import React from 'react';
 import { Line, LineChart, XAxis, YAxis } from 'recharts';
+import SpecialChart from '../SpecialChart/SpecialChart';
 
 const MyLineChart = () => {
     const data = [
